@@ -1,9 +1,3 @@
-# Task-Manager
-
-Here's a **README** for your Task Manager CLI project:
-
----
-
 # Task Manager CLI
 
 A simple, command-line interface (CLI) task manager built with Python. This script allows users to **add**, **list**, and **remove** tasks, storing them in a JSON file for persistence.
