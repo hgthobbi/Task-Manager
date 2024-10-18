@@ -58,7 +58,7 @@ Here’s an example of adding, listing, and removing tasks:
 ```bash
 # Add tasks
 python task_manager.py add --task "Complete GitHub project"
-python task_manager.py add --task "Study algorithmic trading"
+python task_manager.py add --task "Finish Race Car"
 
 # List tasks
 python task_manager.py list
