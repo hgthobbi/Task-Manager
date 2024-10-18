@@ -19,7 +19,7 @@ A simple, command-line interface (CLI) task manager built with Python. This scri
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/task-manager-cli.git
+   git clone https://github.com/hgthobbi/task-manager-cli.git
    cd task-manager-cli
    ```
 
@@ -87,7 +87,3 @@ task-manager-cli/
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-This README provides clear instructions and a good overview of the project, making it easy for others to understand and use.
